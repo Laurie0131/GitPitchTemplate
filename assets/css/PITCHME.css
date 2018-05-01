@@ -13,6 +13,19 @@
   color: gray;
 }
 
+span.byline, span.aside {
+  color: #bbb;
+}
+
+span.byline {
+  font-size: 80%;
+}
+
+span.aside {
+  font-size: 0.7em;
+  font-style: italic;
+}
+
 body {
   background: #000;
   background-color: #000;
@@ -34,7 +47,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal pre code {
-  font-size: 0.6em;
+  font-size: 0.7em;
   line-height: .80;
   max-height: 50vh !important;
   opacity: 0.95;
