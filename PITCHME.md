@@ -50,37 +50,7 @@ Note:
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
-@title[Lesson Objective]
-##### <p align="center"<span class="gold"  text-align: top >Lesson Objective</span></p><br>
-<span style="color:#00CC99;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
- </span><br><br>
-<span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
-</span><br><br>
-<span style="color:#FFFF00"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
-</span> <br><br>
-<span style="color:#FFFF99"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
-</span> 
-
----?image=assets/images/binary-strings-black2.jpg
-@title[UEFI Boot Flow Section]
-#### <span class="gold"  text-align: top >UEFI Boot Execution Flow </span>
-<span style="font-size:0.75em" > Starting at the processor reset vector </span>
-
----
-@title[UEFI Boot Flow]
-#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
-
-
-![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
-
-<!--- comment this does not work
-<p>
-<img src=https://github.com/Laurie0131/PitchSample/blob/master/assets/images/bootflow.JPG width="425"/></p>
--->
-
-<p align="center"><span style="color:gray; font-size:0.5em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
-Note:
-The next set of slides will detail the phases of the boot execution flow for UEFI
+ detail the phases of the boot execution flow for UEFI
 
 ---
 ## Template Features
