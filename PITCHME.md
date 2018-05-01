@@ -1,7 +1,7 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
 ## <span class="gold"  text-align: top >UEFI & EDK II Training</span>
-<p><span class="slide-title"><b>Using class=title</b></span></p>
+<p><span class="slide-title"><b>Using class=slide-title - similar to Intel Pro</b></span></p>
 ##### UEFI and Platform Initialization (PI) Overview
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
@@ -360,7 +360,7 @@ http.createServer(function (request, response) {
 <!--- comment END OF THE SLIDE DECK
 -->
 
-## <span class="gold"  text-align: top >Last Slide to use</span>
+##3 <span class="gold"  text-align: top >Last Slide to use</span>
 #### END OF SLIDES 
 - Summary
 - Q & A
