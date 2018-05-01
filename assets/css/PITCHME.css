@@ -57,7 +57,7 @@ html:-moz-full-screen-ancestor {
 .reveal .slides section>* {
     margin-left: 0.50;
     margin-right: 0;
-    line-height: 1.10;
+    line-height: 1.0;
 }
 .reveal p span.slide-title {
  color: #e49436;
