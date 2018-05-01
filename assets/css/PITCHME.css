@@ -34,8 +34,8 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal pre code {
-  font-size: 0.7em;
-  line-height: .90;
+  font-size: 0.6em;
+  line-height: .80;
   max-height: 50vh !important;
   opacity: 0.95;
   border-radius: 10px;
@@ -47,7 +47,7 @@ html:-moz-full-screen-ancestor {
   padding: 1px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
-  font-size: 50% !important;
+  font-size: 70% !important;
 }
 
 .reveal .slides {
