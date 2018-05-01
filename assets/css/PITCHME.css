@@ -129,4 +129,24 @@ span.aside {
 
 .gp-download { margin-left: 10px; }
 
-.gp-bullet { margin-left: 10px; }
+.gp-bullet-green { 
+  color: #00CC99;;
+  margin-left: 10px; 
+}
+
+.gp-bullet-cyan { 
+  color:#00FFFF;
+  margin-left: 10px; 
+}
+
+.gp-bullet-yellow { 
+  color:#FFFF00;
+  margin-left: 10px; 
+}
+
+.gp-bullet-cream { 
+  color:#FFFF99;
+  margin-left: 10px; 
+}
+
+
