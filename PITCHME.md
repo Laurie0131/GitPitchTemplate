@@ -1,6 +1,6 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
-## <span class="gold"  text-align: top >UEFI & EDK II Training</span>
+# <span class="gold"  text-align: top >UEFI & EDK II Training</span>
 #### UEFI and Platform Initialization (PI) Overview
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
@@ -56,7 +56,7 @@ Note:
 <span style="font-size:0.75em" > Starting at the processor reset vector </span>
 ---
 @title[UEFI Boot Flow]
-#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span><span style="color:white; font-size:0.25em"><br>Press "S" to see Speaker notes</span></p>
+#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span><span style="color:white; font-size:0.5em"><br>Press "S" to see Speaker notes</span></p>
 
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
@@ -66,7 +66,7 @@ Note:
 <img src=https://github.com/Laurie0131/PitchSample/blob/master/assets/images/bootflow.JPG width="425"/></p>
 -->
 
-<p align="center"><span style="color:gray; font-size:0.35em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
+<p align="center"><span style="color:gray; font-size:0.5em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
 
 Note:
 The next set of slides will detail the phases of the boot execution flow for UEFI
