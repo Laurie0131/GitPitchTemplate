@@ -8,9 +8,10 @@ theme : moon
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : ir-black
-logo : assets/image/logo.png
-background : assets/image/binary-strings-black.jpg
+logo : assets/images/TianocoreLogo.png
+background : assets/images/wallpaper.jpg
 background-opacity : 15
 transition : none
-published : true
-footnote : "GitPitch [ Black Binary ] Presentation Template"
+published : yes
+# footnote : "GitPitch [ Black Binary ] Presentation Template"
+footnote: "<a style='text-decoration:none; color: #e49436;' href='http://www.tianocore.org'>www.tianocore.org</a>"
