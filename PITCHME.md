@@ -57,8 +57,9 @@ Note:
 ---
 @title[UEFI Boot Flow]
 #### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
-<span style="font-size:0.9em">Press "S" to see Speaker notes
-</span> 
+
+<p align="center"><span style="color:white; font-size:0.25em">Press "S" to see Speaker notes</span>
+
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
 
@@ -67,9 +68,11 @@ Note:
 <img src=https://github.com/Laurie0131/PitchSample/blob/master/assets/images/bootflow.JPG width="425"/></p>
 -->
 
-<p align="center"><span style="color:gray; font-size:0.5em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
+<p align="center"><span style="color:gray; font-size:0.35em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
+
 Note:
 The next set of slides will detail the phases of the boot execution flow for UEFI
+
 ---
 @title[UEFI Boot Flow Sec]
 #### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>SEC</b> </span></p>
