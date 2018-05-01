@@ -353,9 +353,44 @@ http.createServer(function (request, response) {
 ---
 
 @title[lastslide]
+
+<!--- comment END OF THE SLIDE DECK
+-->
+
 ## <span class="gold"  text-align: top >Last Slide to use</span>
-#### END OF SLIDES need to have Acknowledgements
-- Use the next slide as the last example in the slide deck.
+#### END OF SLIDES 
+- Summary
+- Q & A
+- Tianocore Logo
+- Acknowledgements
+
+
+##### Use the next slide as the last example in the slide deck.
+---  
+@title[Summary]
+##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
+<span style="color:#00CC99;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
+ </span><br><br>
+<span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
+</span><br><br>
+<span style="color:#FFFF00"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
+</span> <br><br>
+<span style="color:#FFFF99"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
+</span> 
+
+---?image=assets/images/gitpitch-audience.jpg
+@title[Questions]
+![Questions](/assets/images/bgpages/bg44_1.png =10x) 
+
+
+---?image=assets/images/gitpitch-audience.jpg
+@title[Logo Slide]
+
+![Logo Slide](/assets/images/TianocoreLogo.png =10x)
+
+---  
+@title[Backup]
+##### <p align="center"<span class="gold"  text-align: top >Backup </span></p>
 
 ---
 @title[Acknowledgements]
