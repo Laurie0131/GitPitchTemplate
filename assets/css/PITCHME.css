@@ -65,11 +65,11 @@ span.aside {
   color: #e49436;
   font-size: 1.0em;
   margin: 0 0 40px 0;
-  font-family: "Helvetica", Impact, sans-serif;
+  font-family: "Helvetica UltraCompressed", Impact, sans-serif;
   font-weight: normal;
   line-height: 0.5;
-  letter-spacing: -0.03em;
-  text-transform: none;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
   text-shadow: none;
    text-align: center;
   word-wrap: break-word;
