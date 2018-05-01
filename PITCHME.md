@@ -56,9 +56,7 @@ Note:
 <span style="font-size:0.75em" > Starting at the processor reset vector </span>
 ---
 @title[UEFI Boot Flow]
-#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
-
-<p align="center"><span style="color:white; font-size:0.25em">Press "S" to see Speaker notes</span>
+#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span><span style="color:white; font-size:0.25em"><br>Press "S" to see Speaker notes</span></p>
 
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
