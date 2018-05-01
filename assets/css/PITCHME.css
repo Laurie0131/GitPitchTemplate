@@ -79,12 +79,17 @@ span.aside {
 .reveal .slides {
     text-align: left;
 }
+
 .reveal .slides section>* {
     margin-left: 0.50;
     margin-right: 0;
-    line-height: 1.10;
+    line-height: .90;
 }
 
+.reveal pre {
+  width: 100%;
+  box-shadow : none;
+}
 .reveal pre code {
   font-size: 0.7em;
   line-height: .90;
@@ -92,3 +97,13 @@ span.aside {
   opacity: 0.95;
   border-radius: 10px;
 }
+
+.reveal .slides section .code-presenting-annotation {
+  color: white;
+  background: #1f1c18;
+  padding: 1px 15px;
+  border-radius: 15px;
+  opacity: 0.75 !important;
+  font-size: 50% !important;
+}
+
