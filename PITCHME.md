@@ -40,7 +40,7 @@ Note:
 
 ---  
 @title[Lesson Objective]
-##### <p align="center"<span class="gold"  text-align: top >Lesson Objective</span></p><br>
+#### <p align="center"<span class="gold"  text-align: top >Lesson Objective</span></p><br>
 <span style="color:#00CC99;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
 <span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
@@ -52,7 +52,7 @@ Note:
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[UEFI Boot Flow Section]
-#### <span class="gold"  text-align: top >UEFI Boot Execution Flow </span>
+### <span class="gold"  text-align: top >UEFI Boot Execution Flow </span>
 <span style="font-size:0.75em" > Starting at the processor reset vector </span>
 
 ---
