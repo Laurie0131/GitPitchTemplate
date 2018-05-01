@@ -30,4 +30,4 @@
 -->
 
 # GitPitcheTemplate
-To see the Slides goto https://gitpitch.com/Laurie0131/GitPitcheTemplate/master
+To see the Slides goto https://gitpitch.com/Laurie0131/GitPitchTemplate/master#/
