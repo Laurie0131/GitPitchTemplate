@@ -57,7 +57,7 @@ Note:
 ---
 @title[UEFI Boot Flow]
 #### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
-
+Press "S" to see Speaker notes
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
 
@@ -349,4 +349,42 @@ http.createServer(function (request, response) {
 
 ### Get your presentation started!
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black-binary)
+---
+@title[lastslide]
+### END OF SLIDS need to have Acknowledgements
+Use the next slide as the last example in the slide deck.
+
+---
+@title[Acknowledgements]
+#### <p align="center"<span class="gold"  text-align: top >Acknowledgements</span></p>
+
+```c++
+/**
+Redistribution and use in source (original document form) and 'compiled' forms (converted
+to PDF, epub, HTML and other formats) with or without modification, are permitted provided
+that the following conditions are met:
+
+Redistributions of source code (original document form) must retain the above copyright 
+notice, this list of conditions and the following disclaimer as the first lines of this 
+file unmodified.
+
+Redistributions in compiled form (transformed to other DTDs, converted to PDF, epub, HTML
+and other formats) must reproduce the above copyright notice, this list of conditions and 
+the following disclaimer in the documentation and/or other materials provided with the 
+distribution.
+
+THIS DOCUMENTATION IS PROVIDED BY TIANOCORE PROJECT "AS IS" AND ANY EXPRESS OR IMPLIED 
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL TIANOCORE PROJECT BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY 
+OF SUCH DAMAGE.
+
+Copyright (c) 2018, Intel Corporation. All rights reserved.
+**/
+
+```
 
