@@ -4,6 +4,14 @@
  * For details, visit Wiki:
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
+.gold {
+  color: #e49436;
+    text-align: center; 
+}
+
+.gray {
+  color: gray;
+}
 
 body {
   background: #000;
@@ -26,8 +34,8 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2;
+  font-size: 0.7em;
+  line-height: .90;
   max-height: 50vh !important;
   opacity: 0.95;
   border-radius: 10px;
@@ -42,11 +50,28 @@ html:-moz-full-screen-ancestor {
   font-size: 50% !important;
 }
 
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal .slides section>* {
+    margin-left: 0.50;
+    margin-right: 0;
+    line-height: 1.10;
+}
 .reveal p span.slide-title {
-  color: #eee8d5;
-  padding: 4px 15px;
-  opacity: 0.75 !important;
-  border-radius: 15px;
+ color: #e49436;
+  font-size: 1.0em;
+  margin: 0 0 40px 0;
+  font-family: "Montserrat", Impact, sans-serif;
+  font-weight: normal;
+  line-height: 0.5;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none;
+   text-align: center;
+  word-wrap: break-word;
+  display: block;
 }
 .reveal div.left {
     float: left;
