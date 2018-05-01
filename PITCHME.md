@@ -373,7 +373,7 @@ Use the next slide as the last example in the slide deck.
 ---  
 @title[Summary]
 ##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
-<span style="color:#00CC99;"> @fa[certificate gp-downlad]</span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
+<span style="color:#00CC99;"> @fa[certificate gp-bullet]</span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
 <span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
 </span><br><br>
@@ -382,7 +382,7 @@ Use the next slide as the last example in the slide deck.
 <span style="color:#FFFF99"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
 </span> 
 
-######TEST
+#####TEST
 ---  
 @title[Summary]
 ##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
