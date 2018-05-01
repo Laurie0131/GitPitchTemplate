@@ -57,7 +57,8 @@ Note:
 ---
 @title[UEFI Boot Flow]
 #### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
-Press "S" to see Speaker notes
+<span style="font-size:0.9em">Press "S" to see Speaker notes
+</span> 
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
 
@@ -380,7 +381,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Questions]
-![Questions](/assets/images/bgpages/bg44_1.png =10x) 
+![Questions](/assets/images/Questions.png =10x) 
 
 
 ---?image=assets/images/gitpitch-audience.jpg
