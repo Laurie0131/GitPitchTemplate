@@ -42,7 +42,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal .slides section .code-presenting-annotation {
-  color: black;
+  color: white;
   background: #1f1c18;
   padding: 1px 15px;
   border-radius: 15px;
@@ -87,11 +87,6 @@ html:-moz-full-screen-ancestor {
 
 .reveal a.pro-link {
     font-size: 0.5em;
-}
-
-#gp-logo img {
-  max-height: 2em;
-  max-width: none;
 }
 
 .gp-tip { font-size : 1.5em; }
