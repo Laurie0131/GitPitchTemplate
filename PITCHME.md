@@ -349,10 +349,13 @@ http.createServer(function (request, response) {
 
 ### Get your presentation started!
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black-binary)
+
 ---
+
 @title[lastslide]
-### END OF SLIDS need to have Acknowledgements
-Use the next slide as the last example in the slide deck.
+## <span class="gold"  text-align: top >Last Slide to use</span>
+#### END OF SLIDES need to have Acknowledgements
+- Use the next slide as the last example in the slide deck.
 
 ---
 @title[Acknowledgements]
