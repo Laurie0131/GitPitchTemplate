@@ -360,15 +360,16 @@ http.createServer(function (request, response) {
 <!--- comment END OF THE SLIDE DECK
 -->
 
-##3 <span class="gold"  text-align: top >Last Slide to use</span>
-#### END OF SLIDES 
+## <span class="gold"  text-align: top >Last Slide to use</span>
+
+##### END OF SLIDES 
 - Summary
 - Q & A
 - Tianocore Logo
 - Acknowledgements
+<br>
 
-
-##### Use the next slide as the last example in the slide deck.
+Use the next slide as the last example in the slide deck.
 ---  
 @title[Summary]
 ##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
