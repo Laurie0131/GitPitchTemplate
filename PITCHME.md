@@ -378,11 +378,11 @@ Use the next slide as the last example in the slide deck.
 
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
- @fa[certificate gp-bullet-green] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
 </span><br><br>
- @fa[certificate gp-bullet-green] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
 </span> <br><br>
- @fa[certificate gp-bullet-green] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
 </span> 
 
 
