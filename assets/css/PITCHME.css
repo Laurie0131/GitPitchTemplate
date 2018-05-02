@@ -120,6 +120,7 @@ span.aside {
 }
 
 .reveal .slides {
+    margin-left: 0.90;
     text-align: left;
 }
 
