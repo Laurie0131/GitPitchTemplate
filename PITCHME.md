@@ -6,7 +6,6 @@
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
 Note:
-<!--- @file
   PITCHME.md for UEFI / EDK II Training
 
   Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
@@ -35,7 +34,6 @@ Note:
   OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
--->
 
 
 ---  
