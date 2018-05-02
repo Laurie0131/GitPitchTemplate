@@ -1,7 +1,7 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
-## <span class="gold"   >UEFI & EDK II Training</span>
-<p><span class="slide-title"><b>Using class=slide-title - similar to Intel Pro</b></span></p>
+## <span class="brick"   >UEFI & EDK II Training</span>
+<p><span class="slide-title"><b>Using class=slide-title - Arial Narrow -uppercase</b></span></p>
 ##### UEFI and Platform Initialization (PI) Overview
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
