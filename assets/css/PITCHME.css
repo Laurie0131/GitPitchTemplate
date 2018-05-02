@@ -23,6 +23,7 @@ html:-moz-full-screen-ancestor {
 .gold {
   color: #e49436;
     text-align: center; 
+  text-align: top;
 }
 
 .gray {
@@ -72,6 +73,19 @@ span.aside {
   text-transform: uppercase;
   text-shadow: none;
    text-align: center;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal p span.slide-text5 {
+  color: #CCCCCC;
+  font-size: .5em;
+  font-weight: normal;
+  line-height: 0.5;
+  letter-spacing: -0.05em;
+  text-transform: none;
+  text-shadow: none;
+   text-align: left;
   word-wrap: break-word;
   display: block;
 }
