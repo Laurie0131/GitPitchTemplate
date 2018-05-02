@@ -32,7 +32,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .gray {
-  color: gray;
+  color: #c0c0c0;
 }
 
 span.byline, span.aside {
@@ -56,6 +56,7 @@ span.aside {
 
 .reveal section a {
   color: #BF5122;
+   text-decoration: underline;
 }
 
 .reveal section a:hover {
