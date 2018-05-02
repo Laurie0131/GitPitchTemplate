@@ -63,7 +63,7 @@ span.aside {
 }
 
 .reveal p span.slide-title {
-  color: #e49436;
+  color: #FFC000;
   font-size: 1.1em;
   margin: 0 0 40px 0;
   font-family: "Arial Narrow", sans-serif;
@@ -80,6 +80,19 @@ span.aside {
 .reveal p span.slide-text5 {
   color: #CCCCCC;
   font-size: .5em;
+  font-weight: normal;
+  line-height: 0.85;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none;
+   text-align: left;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal p span.slide-text {
+  color: white;
+  font-size: .95em;
   font-weight: normal;
   line-height: 0.85;
   letter-spacing: -0.03em;
