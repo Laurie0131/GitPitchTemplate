@@ -42,14 +42,12 @@ Note:
 @title[Lesson Objective]
 ##### <p align="center"<span class="gold"  text-align: top >Lesson Objective </span></p><br>
 
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
- </span><br><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
-</span><br><br>
- @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
-</span> <br><br>
- @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
-</span> 
+<!---  Add bullets using https://fontawesome.com/cheatsheet certificate
+-->
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process  </span><br><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions </span><br><br>
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit?  </span> <br><br>
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org </span> 
 
 
 
@@ -58,8 +56,11 @@ Note:
 ### <span class="gold"  text-align: top >UEFI Boot Execution Flow </span>
 <span style="font-size:0.75em" > Starting at the processor reset vector </span>
 ---
+
 @title[UEFI Boot Flow]
-#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span><span style="color:white; font-size:0.5em"><br>Press "S" to see Speaker notes</span></p>
+#### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span>
+
+<span style="color:white; text-align: left font-size:0.5em"><br>Press "S" to see Speaker notes. Speaker notes are added using key word "Note:" at the ende of the slide and before the next slide</span></p>
 
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
@@ -259,6 +260,15 @@ The next slides show examples for templates
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
+
+---?code=sample/SampleApp/SampleApp.c&lang=c++&title=C File
+
+@[1,32-36](Present code found within any repo source file.)
+@[38-48](Without ever leaving your slideshow.)
+@[53-60](Using GitPitch code-presenting with (optional) annotations.)
+
+Note:
+example of a UEFI application in C
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
