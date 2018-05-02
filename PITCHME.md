@@ -60,7 +60,7 @@ Note:
 @title[UEFI Boot Flow]
 #### <p align="center"><span class="gold"  text-align: top >UEFI - PI & EDK II Boot Flow </span></p>
 
-<p><span style="color:white; text-align: left font-size:0.05em">Press "S" to see Speaker notes. Speaker notes are added using key word "Note:" at the ende of the slide and before the next slide</span></p>
+<p><span class="slide-text5">Press "S" to see Speaker notes. Speaker notes are added using key word "Note:" at the ende of the slide and before the next slide</span></p>
 <p><span class="slide-text5"><b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b></span></p>
 
 ![UEFI Boot Execution Flow](/assets/images/bootflow.JPG)
