@@ -121,10 +121,11 @@ span.aside {
 
 .reveal .slides {
     text-align: left;
+   margin-left: 0.90;
 }
 
 .reveal .slides section>* {
-    margin-left: 01.90;
+    margin-left: 0.90;
     margin-right: 0;
     line-height: .95;
 }
