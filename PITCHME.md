@@ -260,7 +260,7 @@ The next slides show examples for templates
 
 ---?code=sample/SampleApp/SampleApp.c&lang=c++&title=C File
 
-@[1,32-36](Present code found within any repo source file.)
+@[30,32-36](Present code found within any repo source file.)
 @[38-48](Without ever leaving your slideshow.)
 @[53-60](Using GitPitch code-presenting with (optional) annotations.)
 
