@@ -2,7 +2,9 @@
 @title[Title-UEFI Overview]
 ## <span class="brick"   >UEFI & EDK II Training</span>
 <p><span class="slide-title"><b>Using class=slide-title </b></span></p>
-##### <span class="gold" UEFI and Platform Initialization (PI) Overview </span>
+
+#### <p><span class="gold" UEFI and Platform Initialization (PI) Overview </span></p>
+
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
 Note:
