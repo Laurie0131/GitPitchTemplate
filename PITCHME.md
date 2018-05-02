@@ -69,8 +69,7 @@ Note:
 <p>
 <img src=https://github.com/Laurie0131/PitchSample/blob/master/assets/images/bootflow.JPG width="425"/></p>
 -->
-
-<p align="center"><span style="color:gray; font-size:0.5em"> <b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b> </span>
+<p><span class="slide-text5"><b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b></span></p>
 
 Note:
 The next set of slides will detail the phases of the boot execution flow for UEFI
