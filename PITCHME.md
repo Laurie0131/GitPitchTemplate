@@ -40,7 +40,7 @@ Note:
 
 ---  
 @title[Lesson Objective]
-##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
+##### <p align="center"<span class="gold"  text-align: top >Lesson Objective </span></p><br>
 
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
