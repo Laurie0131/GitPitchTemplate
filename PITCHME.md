@@ -364,8 +364,7 @@ http.createServer(function (request, response) {
 @title[Download this Template!]
 
 ### Get your presentation started!
-### [Download this template @fa[external-link gp-download]](https://github.com/Laurie0131/GitPitchTemplate/archive/master.zip)
-
+### [Download this template @fa[external-link gp-download]](https://github.com/Laurie0131/GitPitchTemplate/archive/v1.0.zip)
 ---
 
 @title[lastslide]
