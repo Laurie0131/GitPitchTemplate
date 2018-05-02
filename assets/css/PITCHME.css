@@ -19,6 +19,11 @@ html:-moz-full-screen-ancestor {
   background-color: #000;
 }
 
+.brick {
+  color: #BF5122;
+    text-align: center; 
+  text-align: top;
+}
 
 .gold {
   color: #e49436;
@@ -50,7 +55,7 @@ span.aside {
 }
 
 .reveal section a {
-  color: #e49436;
+  color: #BF5122;
 }
 
 .reveal section a:hover {
