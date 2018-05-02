@@ -55,11 +55,11 @@ span.aside {
 }
 
 .reveal section a {
-  color: #BF5122;
+  color: #FFC000;
 }
 
 .reveal section a:hover {
-  color: #FFC000;
+  color: #BF5122;
 }
 
 .fa-pad-left {
