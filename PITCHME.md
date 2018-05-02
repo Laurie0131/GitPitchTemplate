@@ -38,18 +38,20 @@ Note:
 -->
 
 
-
 ---  
 @title[Lesson Objective]
-#### <p align="center"<span class="gold"  text-align: top >Lesson Objective</span></p><br>
-<span style="color:#00CC99;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
+##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
+
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
-<span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
 </span><br><br>
-<span style="color:#FFFF00"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
 </span> <br><br>
-<span style="color:#FFFF99"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
 </span> 
+
+
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[UEFI Boot Flow Section]
@@ -374,8 +376,6 @@ Use the next slide as the last example in the slide deck.
 @title[Summary]
 ##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
 
-###### Test <br>
-
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
  </span><br><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
@@ -386,17 +386,6 @@ Use the next slide as the last example in the slide deck.
 </span> 
 
 
----  
-@title[Summary]
-##### <p align="center"<span class="gold"  text-align: top >Summary </span></p><br>
-<span style="color:#00CC99;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process
- </span><br><br>
-<span style="color:#00FFFF;"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer web-based training related questions
-</span><br><br>
-<span style="color:#FFFF00"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? 
-</span> <br><br>
-<span style="color:#FFFF99"> <i class="fa fa-certificate fa-1x" aria-hidden="true"> </i></span> <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org
-</span> 
 
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Questions]
