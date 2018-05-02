@@ -149,4 +149,19 @@ span.aside {
   margin-left: 10px; 
 }
 
+.gp-bullet-magenta { 
+  color:#702AA0;
+  margin-left: 10px; 
+}
+
+.gp-bullet-ltgreen { 
+  color:#A6C639;
+  margin-left: 10px; 
+}
+
+.gp-bullet-gold { 
+  color:#FFC000;
+  margin-left: 10px; 
+}
+
 
