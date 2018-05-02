@@ -1,6 +1,6 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
-# <span class="gold"   >UEFI & EDK II Training</span>
+## <span class="gold"   >UEFI & EDK II Training</span>
 <p><span class="slide-title"><b>Using class=slide-title - similar to Intel Pro</b></span></p>
 ##### UEFI and Platform Initialization (PI) Overview
 <br>
@@ -52,12 +52,12 @@ Note:
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[UEFI Boot Flow Section]
-<p><span class="slide-title">UEFI Boot Execution Flow </span></p>
+#### <span class="gold"  >UEFI Boot Execution Flow </span>
 <span style="font-size:0.75em" > Starting at the processor reset vector </span>
 ---
 
 @title[UEFI Boot Flow]
-<p><span class="slide-title">UEFI - PI & EDK II Boot Flow </span></p>
+#### <p align="center"><span class="gold" >UEFI - PI & EDK II Boot Flow </span></p>
 
 <p><span class="slide-text5">Press "S" to see Speaker notes. Speaker notes are added using key word "Note:" at the ende of the slide and before the next slide</span></p>
 <p><span class="slide-text5"><b>UEFI  and Platform Initialziation (PI) Boot Execution Flow</b></span></p>
@@ -75,7 +75,7 @@ The next set of slides will detail the phases of the boot execution flow for UEF
 
 ---
 @title[UEFI Boot Flow Sec]
-<p><span class="slide-title"> UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>SEC</b> </span></p>
+#### <p align="center"><span class="gold" > UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>SEC</b> </span></p>
 
 ![UEFI Boot Execution Flow](/assets/images/bgpages/bg4.png =10x)
 
@@ -90,7 +90,7 @@ May choose to authenticate the PEI Foundation
 
 +++
 @title[SEC - characteristics ]
-<p><span class="slide-title">Processor Executes SEC starting at the reset vector </span></p>
+#### <p align="center"><span class="gold" >Processor Executes SEC starting at the reset vector </span></p>
 - SEC Consumes the Reset vector 
 - Serving as the root of trust 
 - May choose to authenticate the PEI Foundation
@@ -121,7 +121,7 @@ SEC will have Platform specific functions
   - Written in assembly (16-bit & 32-bit)
 +++
 @title[SEC - Firmware Terms ]
-<p><span class="slide-title">Terms to know about the Flash Device </span></p>
+#### <p align="center"><span class="gold" >Terms to know about the Flash Device </span></p>
 - Firmware Volume (FV) 
   - The basic storage with a firmware device
 - Firmware File System (FFS)
@@ -139,7 +139,7 @@ to associate a driver with a newly exposed firmware volume
 
 ---
 @title[UEFI Boot Flow PEI]
-<p><span class="slide-title" >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>PEI</b> </span></p>
+#### <p align="center"><span class="gold"  >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>PEI</b> </span></p>
 
 
 ![UEFI Boot Execution Flow](/assets/images/bgpages/bg4_1.png =10x)
@@ -170,7 +170,7 @@ Core set of services (PeiServices), PEIM to PEIM Interfaces (PPIs), and simple N
 
 ---
 @title[UEFI Boot Flow PEI-DXEIPL  & Hobs ]
-<p><span class="slide-title" >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">-&nbsp;<b>Hobs DXEIPL</b> </span></p>
+#### <p align="center"><span class="gold"  >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">-&nbsp;<b>Hobs DXEIPL</b> </span></p>
 
 ![UEFI Boot Execution Flow](/assets/images/bgpages/bg5.png =10x)
 
@@ -194,7 +194,7 @@ Transition to DXE :
 
 ---
 @title[UEFI Boot Flow DXE]
-<p><span class="slide-title"  >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>DXE</b> </span></p>
+#### <p align="center"><span class="gold"   >UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>DXE</b> </span></p>
 
 ![UEFI Boot Execution Flow](/assets/images/bgpages/bg5_1.png =10x)
 
@@ -206,7 +206,7 @@ Works after system memory has been discovered and initialized
 DXE drivers are typically stored in flash in compressed form and must be decompressed into memory before execution
 +++
 @title[DXE Characteristics]
-<p><span class="slide-title"  >DXE Characteristics & Responsibilities  </span></p>
+#### <p align="center"><span class="gold"   >DXE Characteristics & Responsibilities  </span></p>
 - Consumes HOB List from PEI
 - Builds UEFI and DXE Service Tables  
 - EFI System Table
