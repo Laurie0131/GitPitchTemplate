@@ -55,7 +55,7 @@ span.aside {
 }
 
 .reveal section a:hover {
-  color: #e7ad52;
+  color: #FFC000;
 }
 
 .fa-pad-left {
@@ -63,7 +63,7 @@ span.aside {
 }
 
 .reveal p span.slide-title {
-  color: #FFC000;
+  color: #e49436;
   font-size: 1.1em;
   margin: 0 0 40px 0;
   font-family: "Arial Narrow", sans-serif;
@@ -92,7 +92,7 @@ span.aside {
 
 .reveal p span.slide-text {
   color: white;
-  font-size: .95em;
+  font-size: 1.0em;
   font-weight: normal;
   line-height: 0.85;
   letter-spacing: -0.03em;
